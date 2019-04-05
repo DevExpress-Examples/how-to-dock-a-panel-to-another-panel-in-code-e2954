@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [MainPage.xaml](./CS/DXDocking_DockingInCode/MainPage.xaml) (VB: [MainPage.xaml](./VB/DXDocking_DockingInCode/MainPage.xaml))
-* [MainPage.xaml.cs](./CS/DXDocking_DockingInCode/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/DXDocking_DockingInCode/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/DXDocking_DockingInCode/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/DXDocking_DockingInCode/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to dock a panel to another panel in code
 
